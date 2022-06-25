@@ -1,30 +1,49 @@
-### Hi there,My name is Yuvisa nice to meet You 👋
+![Hi, I'm Yuvisa]()
 
-### I'm freelance javascript programmer
+<h2 align="center">
+Full Stack Developer :heart: from Perú to :earth_americas:
+</h2>
 
-## Skills:
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()</br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()</br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
-and more ...
+&nbsp;&nbsp;
 
-## Find me at:
-*Linkedin </br>
-*Twiter</br>
 
-<!--
-**YuviQP/YuviQP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :star: Languages and Tools:
 
-Here are some ideas to get you started:
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <br />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+## :pushpin: My proyects
+
+<h3>Traveloco</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+</p> 
+
+<h3>Khuyay Perú</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
+</p> 
+&nbsp;
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/yuviqp" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="yuvisa.palomino@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
