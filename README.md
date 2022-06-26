@@ -29,16 +29,14 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 
 <h3>Traveloco</h3> 
 <p>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/login.png" width="250px" height="250px"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/home.png" width="250px" height="250px"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/experiencia.png" width="250px" height="250px"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/login.png" width="200px" height="250px"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/home.png" width="200px" height="250px"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/experiencia.png" width="200px" height="250px"></a>
 </p> 
 
 <h3>Khuyay Perú</h3>
 <p>
   <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/KhuyayPerú/Landing%20page.png" width="200px" height="250px"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
 </p> 
 &nbsp;
 
