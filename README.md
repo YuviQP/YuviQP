@@ -36,7 +36,7 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 
 <h3>Khuyay Perú</h3>
 <p>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/KhuyayPerú/Landing%20page.png" width="250px" height="250px"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/KhuyayPerú/Landing%20page.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/"></a>
 </p> 
