@@ -30,8 +30,8 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 <h3>Traveloco</h3>
 <p>
   <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/login.png" width="250px" height="250px"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/tree/main/imagen/traveloco/login.png"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/tree/main/imagen/traveloco/login.png"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/tree/main/imagen/traveloco/home.png"></a>
+  <a><img src="https://github.com/YuviQP/YuviQP/tree/main/imagen/traveloco/experiencia.png"></a>
 </p> 
 
 <h3>Khuyay Perú</h3>
