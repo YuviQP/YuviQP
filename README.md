@@ -1,4 +1,4 @@
-![Hi, I'm Yuvisa]()
+![Hi, I'm Yuvisa](https://github.com/YuviQP/YuviQP/blob/main/imagen/yuvisa.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Perú to :earth_americas:
