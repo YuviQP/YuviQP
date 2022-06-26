@@ -42,5 +42,5 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/yuviqp" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="yuvisa.palomino@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="mailto:yuvisa.palomino@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
