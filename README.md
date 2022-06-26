@@ -42,5 +42,5 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/yuviqp" ><img width="5%"  src="https://github.com/YuviQP/YuviQP/blob/main/logos/linkedin.png"> &nbsp;
-<a href="mailto:yuvisa.palomino@gmail.com" ><img width="5%"  src="https://github.com/YuviQP/YuviQP/blob/main/logos/gmail.jfif">
+<a href="mailto:yuvisa.palomino@gmail.com" ><img width="6%"  src="https://github.com/YuviQP/YuviQP/blob/main/logos/gmail.jfif">
 </span>
