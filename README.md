@@ -26,18 +26,6 @@ Full Stack Developer :heart: from Perú to :earth_americas:
 &nbsp;
 
 ## :pushpin: My proyects
-<h3>Traveloco</h3> 
-<p>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/login.png" width="25%"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/home.png" width="25%"></a>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/traveloco/experiencia.png" width="25%"></a>
-</p> 
-
-<h3>Khuyay Perú</h3>
-<p>
-  <a><img src="https://github.com/YuviQP/YuviQP/blob/main/imagen/KhuyayPerú/Landing%20page.png" width="20%"></a>
-</p> 
-&nbsp;
 
 ## :paperclip: How to reach me:
 <span >
