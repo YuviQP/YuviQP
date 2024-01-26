@@ -10,6 +10,7 @@ Front End Developer :heart: from Perú to :earth_americas:
 ## :star: Languages and Tools:
 
 <p>
+   <code><img width="10%" height="40px" src="https://github.com/YuviQP/YuviQP/blob/main/logos/angular.png"></code>
   <code><img width="10%" height="40px" src="https://github.com/YuviQP/YuviQP/blob/main/logos/javascript.png"></code>
    <code><img width="10%" height="40px" src="https://github.com/YuviQP/YuviQP/blob/main/logos/react.png"></code>
    <code><img width="10%" height="40px" src="https://github.com/YuviQP/YuviQP/blob/main/logos/html.png"></code>
