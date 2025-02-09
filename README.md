@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-dark"/>
+  <img src="https://github.com/YuviQP/YuviQP/blob/main/logos/github-contribution-grid-snake.gif&theme=github-dark"/>
 </p>
 
 ## ☕ Coffee for Visitors
