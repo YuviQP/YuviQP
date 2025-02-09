@@ -29,9 +29,11 @@
 </p>
 
 ## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github.com/YuviQP/YuviQP/blob/main/logos/github-contribution-grid-snake.gif&theme=github-dark"/>
