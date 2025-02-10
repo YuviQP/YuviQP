@@ -14,21 +14,15 @@
 
 ## 📱 Connect with me
 <p align="center">
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
+
+  <a href="mailto:yuvisa.palomino@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yuviqp/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-## 🔥 GitHub Activity
 ![snake animation](https://github.com/YuviQP/YuviQP/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 ## ☕ Coffee for Visitors
 <p align="center">
