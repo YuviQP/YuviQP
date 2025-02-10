@@ -25,12 +25,10 @@
 
 ![snake animation](https://github.com/YuviQP/YuviQP/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 
-[![Coffee for Visitors](https://img.buymeacoffee.com/button-api/?text=Coffee%20for%20Visitors&emoji=☕&slug=your-profile&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/your-profile)
-
 
 <p align="center">
   <a href="https://sites.peru.info/es-pe/cafesdelperu">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=coffee for visitors&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo](https://img.buymeacoffee.com/button-api/?text=Coffee%20for%20Visitors&emoji=☕&slug=your-profile&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff=coffee for visitors&logoColor=black"/>
   </a>
 </p>
 
