@@ -29,7 +29,7 @@
 </p>
 
 ## 🔥 GitHub Activity
-![snake animation](https://github.com/YuviQP/YuviQP/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/YuviQP/YuviQP/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 ## ☕ Coffee for Visitors
 <p align="center">
   <a href="https://www.buymeacoffee.com/your-profile">
