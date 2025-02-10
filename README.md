@@ -26,7 +26,7 @@
 ![snake animation](https://github.com/YuviQP/YuviQP/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/your-profile](https://sites.peru.info/es-pe/cafesdelperu">
+  <a href="https://sites.peru.info/es-pe/cafesdelperu">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=coffee for visitors&logoColor=black"/>
   </a>
 </p>
